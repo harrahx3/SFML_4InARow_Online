@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1499022465 source:c:\users\hyacinthe\documents\projetscodeblock\puissance4\main.cpp
+	<iostream>
+	<utility>
+	<vector>
+
